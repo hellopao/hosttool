@@ -1,6 +1,6 @@
 {
   "name": "hosttool",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "tool for managing system host",
   "main": "index.js",
   "scripts": {
@@ -29,6 +29,6 @@
     "commander": "^2.9.0"
   },
   "homepage": "https://github.com/hellopao/hosttool",
-  "_id": "hosttool@0.0.2",
+  "_id": "hosttool@0.0.3",
   "_from": "hosttool@"
 }
