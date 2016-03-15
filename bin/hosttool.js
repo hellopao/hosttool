@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 "use strict";
 const program = require("commander");
 const _1 = require("../");
